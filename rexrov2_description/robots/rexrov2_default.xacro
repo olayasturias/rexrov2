@@ -46,5 +46,6 @@
 
   <!-- Joint state publisher plugin -->
   <xacro:default_joint_state_publisher namespace="$(arg namespace)" update_rate="50"/>
+  
 
 </robot>
